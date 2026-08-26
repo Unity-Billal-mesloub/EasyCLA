@@ -4,9 +4,9 @@ This is a neutral repo where you can open a trivial PR and initiate the EasyCLA 
 
 # Contributing to this repo
 
-This repository is managed by EasyCLA. Project participants must sign the free [FOCUS Specification Membership agreement](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) before making a contribution. You only need to do this one time, and it can only be signed by corporations and their employees approved to contribute.
+This repository is managed by EasyCLA. Project participants must sign the free [FOCUS Specification Membership agreement](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) before making a contribution. You only need to do this one time, and it can only be signed by corporations and their employees approved to contribute.
 
-You can find [detailed information here](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation). If you have issues, please email [focus@finops.org](mailto:focus@finops.org).
+You can find [detailed information here](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub). If you have issues, please email [focus@finops.org](mailto:focus@finops.org).
  
 To initiate the signature process please open a PR against this repo. The EasyCLA bot will block the merge if we still need a membership agreement from you.
 
@@ -16,14 +16,14 @@ To initiate the signature process please open a PR against this repo. The EasyCL
 
 You need to be signed into GitHub using an account registered to your organization email address.
 
-* If you have not done this previously you can [register a new account here](https://github.com/signup)
+* If you have not done this previously you can [register a new account here](https://github.com/Unity-Billal-mesloub)
 * Once you have an account [login to GitHub](https://github.com/login)
 
 ## Step 1 - Initiate a fork and edit to this repo
 
 In order to trigger the signing process you need to fork this repo and submit a pull request (PR). This sounds like a hard process but luckily the GitHub web interface handles most of the steps for you. 
 
-* Open the following URL [https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA#readme](https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA#readme)
+* Open the following URL [https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA#readme](https://github.com/Unity-Billal-mesloub/EasyCLA#readme)
 * Click on the pencil icon, this will fork the repo into your own GitHub account and allow you to make a change to be submitted back.
 
 ![initiate_signing_process_step_1](images/initiate_signing_process_step_1.png)
@@ -50,7 +50,7 @@ Now you have a staged commit in your forked repo you can submit a pull request (
 
 Now you have opened a PR it will cause the EasyCLA to check on your signing status and enable you to start the signing process.
 
-* Open [pull requests for this repo](https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA/pulls)
+* Open [pull requests for this repo](https://github.com/Unity-Billal-mesloub/EasyCLA/pulls)
 * Find your open pull request in the list and select it
 * Check on the status of the EasyCLA add-on, if you are not covered you will need to start the signing process by selecting "click here to be authorized"
 
@@ -67,7 +67,7 @@ At this stage you have started the CLA signing process and can follow the docume
 
 Once you have completed the process of signing the CLA and have been added to your organization by your CLA Manager you need to confirm your authorization by doing the signing process one last time.
 
-* Open [pull requests for this repo](https://github.com/FinOps-Open-Cost-and-Usage-Spec/EasyCLA/pulls)
+* Open [pull requests for this repo](https://github.com/Unity-Billal-mesloub/EasyCLA/pulls)
 * Find your open pull request in the list and select it
 * Check on the status of the EasyCLA add-on, if you are not covered you will need to start the signing process by selecting "click here to be authorized"
 * After completing this process you should see you pull request has been authorized
