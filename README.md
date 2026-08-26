@@ -17,7 +17,7 @@ To initiate the signature process please open a PR against this repo. The EasyCL
 You need to be signed into GitHub using an account registered to your organization email address.
 
 * If you have not done this previously you can [register a new account here](https://github.com/Unity-Billal-mesloub)
-* Once you have an account [login to GitHub](https://github.com/login)
+* Once you have an account [login to GitHub](https://github.com/Unity-Billal-mesloub)
 
 ## Step 1 - Initiate a fork and edit to this repo
 
